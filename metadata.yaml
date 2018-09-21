@@ -1,11 +1,16 @@
 _repo: Children-of-Men_54761
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54761-h/images/cover.jpg
 creator:
   author:
     agent_name: Block, Rudolph Edgar
     gutenberg_agent_id: '48033'
     url: http://www.gutenberg.org/2009/agents/48033
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54761#Children-of-Men
 gutenberg_issued: '2017-05-23'
 gutenberg_type: Text
 identifiers:
